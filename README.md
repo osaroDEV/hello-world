@@ -1,2 +1,2 @@
 # hello-world
-Going over the official Github tutorial
+Hey, I am osaroDEV and I love to code.
